@@ -5,7 +5,7 @@ Files related to Antirrhinum SRNAse project
 1. Description of the new S-alleles \ 
     a. New reference for S-locus, compare with previous ones \
     b. Phylogeny and origin (+other species) \
-    b. Some insights on structure and function: synteny/structural rearrangements visualization \
+    c. Some insights on structure and function: synteny/structural rearrangements visualization \
     
 2. Distribution of S-allels in the hybrid zone \
     a. Frequency in the population \
